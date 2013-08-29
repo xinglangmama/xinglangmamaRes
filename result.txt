@@ -11,15 +11,15 @@
 
         <div class="wrapper" id="bodyCont">
     <div id="tbh5v0">
-        <!-- Í·²¿µ¼º½ Start -->
+        <!-- å¤´éƒ¨å¯¼èˆª Start -->
         <header>
-            <!-- ½ñÈÕÍÅÍ·²¿ -->
+            <!-- ä»Šæ—¥å›¢å¤´éƒ¨ -->
             <div id="H_goods" class="c-nav-w none">
                 <div class="c-nav-s">
                    
                 </div>
                 <div class="c-nav-c">
-                    <span>Ó¦ÓÃÁÐ±í</span>
+                    <span>åº”ç”¨åˆ—è¡¨</span>
                 </div>
                 <div class="c-nav-e">
                     
@@ -29,17 +29,17 @@
      
          
         </header>
-        <!-- Í·²¿µ¼º½ End -->
-        <!-- Ö÷ÇøÓò Start -->
+        <!-- å¤´éƒ¨å¯¼èˆª End -->
+        <!-- ä¸»åŒºåŸŸ Start -->
         <div class="main">
             <li>
 
         <div class="item-pic"><img src="http://img2012.i02.wimg.taobao.com/bao/uploaded/i2/T18gutFXpgXXb1upjX.jpg_145x145.jpg" width="120" height="80" class=""></div>
         <div class="item-info">
-            <h3 class="good-name">¡¾°üÓÊ¡¿¸ß¶Ë´ÌÐå¹¤ÒÕº«°æÐÞÉíÊ±ÉÐ·çÒÂÍâÌ×</h3>
+            <h3 class="good-name">ã€åŒ…é‚®ã€‘é«˜ç«¯åˆºç»£å·¥è‰ºéŸ©ç‰ˆä¿®èº«æ—¶å°šé£Žè¡£å¤–å¥—</h3>
             <div class="pirce">
-                <b class="promote-price">£¤139.00</b>
-                <span class="cost-price">£¤<del>390.00</del></span>
+                <b class="promote-price">ï¿¥139.00</b>
+                <span class="cost-price">ï¿¥<del>390.00</del></span>
             </div>
             
           
