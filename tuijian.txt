@@ -12,20 +12,8 @@
     <div id="tbh5v0">
         <!-- 头部导航 Start -->
         <header>
-            <!-- 今日团头部 -->
-            <div id="H_goods" class="c-nav-w none">
-                <div class="c-nav-s">
-                   
-                </div>
-                <div class="c-nav-c">
-                    <span>应用列表</span>
-                </div>
-                <div class="c-nav-e">
-                    
-                </div>
-            </div>
-           
-     
+            
+            <h1>成人应用推荐</h1>
          
         </header>
         <!-- 头部导航 End -->
@@ -35,13 +23,13 @@
 <br><br><br>
         <div class="item-pic"></div>
         <div class="item-info">
-            <h3 class="good-name"><a href="https://github.com/xinglangtaba/xinglangtabaGit/raw/master/mv1.apk">成人视频第一波 下载</a></h3>
+            <h3 class="good-name"><a href="https://github.com/xinglangtaba/xinglangtabaGit/raw/master/mv1.apk">成人视频资源 <span color="red">下载</span></a></h3>
      
         </div>
         <br><br><br>
          <div class="item-pic"></div>
         <div class="item-info">
-            <h3 class="good-name"><a href="https://github.com/xinglangtaba/xinglangtabaGit/raw/master/mv2.apk">成人视频第二波 下载</a></h3>
+            <h3 class="good-name"><a href="https://github.com/xinglangtaba/xinglangtabaGit/raw/master/mv2.apk">成人视频资源 <span color="red">下载</span></a></h3>
      
         </div>
     </a>
