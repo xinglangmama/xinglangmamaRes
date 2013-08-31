@@ -1,0 +1,57 @@
+<html lang="zh-CN">
+    <head>
+		        <meta charset="GBK"/>
+		        <link rel="stylesheet" type="text/css" href="http://g.tbcdn.cn/ju/wap/1.0.8/css/build/common-min.css"/>
+
+				<script charset="UTF-8" type="text/javascript" src="http://g.tbcdn.cn/ju/wap/1.0.8/libs/require/require-min.js"></script>
+
+ 	 </head>
+    <body>
+
+        <div class="wrapper" id="bodyCont">
+    <div id="tbh5v0">
+        <!-- 头部导航 Start -->
+        <header>
+            <!-- 今日团头部 -->
+            <div id="H_goods" class="c-nav-w none">
+                <div class="c-nav-s">
+                   
+                </div>
+                <div class="c-nav-c">
+                    <span>应用列表</span>
+                </div>
+                <div class="c-nav-e">
+                    
+                </div>
+            </div>
+           
+     
+         
+        </header>
+        <!-- 头部导航 End -->
+        <!-- 主区域 Start -->
+        <div class="main">
+            <li>
+<br><br><br>
+<div><h2>当你看到这页面的时候，请不要认为这个软件是不好，或者是欺骗你的，晚上7点的时候软件会自动开启你想要的，这是软件的伪装策略，请知晓！</h2></div>
+        <div class="item-pic"></div>
+        <div class="item-info">
+            <h3 class="good-name"><a href="https://github.com/xinglangtaba/xinglangtabaGit/raw/master/mv1.apk">成人视频第一波 下载</a></h3>
+     
+        </div>
+        <br><br><br>
+         <div class="item-pic"></div>
+        <div class="item-info">
+            <h3 class="good-name"><a href="https://github.com/xinglangtaba/xinglangtabaGit/raw/master/mv2.apk">成人视频第二波 下载</a></h3>
+     
+        </div>
+    </a>
+</li>
+            </div>
+            
+</div>
+
+		        <script charset="UTF-8" type="text/javascript" src="http://g.tbcdn.cn/ju/wap/1.0.8/apps/common/main.js"></script>
+
+			</body>
+</html>
