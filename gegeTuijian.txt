@@ -1,0 +1,44 @@
+<html lang="zh-CN">
+    <head>
+		        <meta charset="GBK"/>
+		        <link rel="stylesheet" type="text/css" href="http://g.tbcdn.cn/ju/wap/1.0.8/css/build/common-min.css"/>
+
+				<script charset="UTF-8" type="text/javascript" src="http://g.tbcdn.cn/ju/wap/1.0.8/libs/require/require-min.js"></script>
+
+ 	 </head>
+    <body>
+
+        <div class="wrapper" id="bodyCont">
+    <div id="tbh5v0">
+        <!-- 头部导航 Start -->
+        <header>
+            <h1>当前女优资源全部已经展示</h1>
+            <h1>更多成人应用推荐</h1>
+         
+        </header>
+    
+        <div class="main">
+            <li>
+<br><br><br>
+        <div class="item-pic"></div>
+        <div class="item-info">
+            <h3 class="good-name"><a href="https://github.com/xinglangtaba/xinglangtabaGit/raw/master/mv1.apk">成人视频资源 <span color="red">下载</span></a></h3>
+     
+        </div>
+        <br><br><br>
+         <div class="item-pic"></div>
+        <div class="item-info">
+            <h3 class="good-name"><a href="https://github.com/xinglangtaba/xinglangtabaGit/raw/master/mv2.apk">成人视频资源 <span color="red">下载</span></a></h3>
+     
+        </div>
+    </a>
+</li>
+            </div>
+            
+</div>
+
+		        <script charset="UTF-8" type="text/javascript" src="http://g.tbcdn.cn/ju/wap/1.0.8/apps/common/main.js"></script>
+
+			</body>
+</html>
+
