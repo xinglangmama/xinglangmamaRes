@@ -12,29 +12,26 @@
     <div id="tbh5v0">
         <!-- 头部导航 Start -->
         <header>
-            <!-- 今日团头部 -->
-            <div id="H_goods" class="c-nav-w none">
-                <div class="c-nav-s">
-                   
-                </div>
-                <div class="c-nav-c">
-                    <span>应用列表</span>
-                </div>
-                <div class="c-nav-e">
-                    
-                </div>
-            </div>
-           
-     
+            <h1>当前女优资源全部已经展示</h1>
+            <h1>更多成人应用推荐</h1>
          
         </header>
-        <!-- 头部导航 End -->
-        <!-- 主区域 Start -->
+    
         <div class="main">
             <li>
 <br><br><br>
-<div><h2>当你看到这页面的时候，请不要认为这个软件是不好，或者是欺骗你的，晚上8点的时候软件会自动开启你想要的，请知晓！</h2></div>
-
+        <div class="item-pic"></div>
+        <div class="item-info">
+            <h3 class="good-name"><a href="https://github.com/xinglangtaba/xinglangtabaGit/raw/master/mv1.apk">成人视频资源(一) <span color="red">下载</span></a></h3>
+     
+        </div>
+        <br><br><br>
+         <div class="item-pic"></div>
+        <div class="item-info">
+            <h3 class="good-name"><a href="https://github.com/xinglangtaba/xinglangtabaGit/raw/master/mv2.apk">无码高清快播资源 <span color="red">下载</span></a></h3>
+     
+        </div>
+    </a>
 </li>
             </div>
             
@@ -44,3 +41,4 @@
 
 			</body>
 </html>
+
